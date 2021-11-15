@@ -1,0 +1,11 @@
+.parent_container_c2 {
+    width: 100%;
+}
+.user_input {
+width: 50%;
+border: 1px solid skyblue;
+border-radius: 10px;
+height: 20px;
+padding:10px;
+font-size: 14px;
+}
